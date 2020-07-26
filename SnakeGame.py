@@ -166,5 +166,5 @@ while True:
             pen.clear()
             pen.write("Score : {}   High Score : {}".format(score, highScore), align="center",
                       font=("Courier", 18, "normal"))
-    time.sleep(delay)  //
+    time.sleep(delay)  
 w.mainloop()
